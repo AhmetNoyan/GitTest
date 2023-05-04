@@ -14,7 +14,7 @@ import io.github.bonigarcia.wdm.managers.FirefoxDriverManager;
 
 public class Driver {
 
-
+	String test;
 	private static WebDriver driver;
 
 	public static WebDriver getDriver() {
